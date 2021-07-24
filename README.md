@@ -22,8 +22,8 @@
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=aseeldeek&count_private=true&theme=outrun&hide_border=true" alt = "aseeldeek's Contribution" width = 400 >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=aseeldeek&theme=outrun&hide_border=true" alt = "aseeldeek's Rating" width = 400 >
+  <img src = "https://github-readme-stats.vercel.app/api?username=aseeldeek&count_private=true&theme=material-palenight&hide_border=true" alt = "aseeldeek's Contribution" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=aseeldeek&theme=material-palenight&hide_border=true" alt = "aseeldeek's Rating" width = 400 >
 
 </p>
 
