@@ -8,9 +8,7 @@
 
 ### Hi there it's Aseel Deek 👋
 
-- 🔭 I’m currently working on being frontend-engineer 
-- 🌱 I’m currently learning HTML and CSS
-- 😄 Pronouns: She/Her 
+- 🔭 I’m currently working on being frontend-engineer. 
 - ⚡ Fun fact: Sometimes I like to spend more than one hour just looking at my room wall.🤣
 
 <br />
