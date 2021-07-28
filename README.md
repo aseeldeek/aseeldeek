@@ -6,7 +6,7 @@
 
 <h1>About Me ♦ ⚔ </h1>
 
-### Hi there it's Aseel Deek 👋
+### Hello it's Aseel Deek 🖐
 
 - 🔭 I’m currently working on being frontend-engineer 💻 
 - ⚡ Fun fact: Sometimes I like to spend more than one hour just looking at my room wall 😆
