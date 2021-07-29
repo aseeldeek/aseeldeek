@@ -8,8 +8,8 @@
 
 ### Hello it's Aseel Deek 🖐
 
-- 🔭 I’m currently working on being frontend-engineer 💻 
-- ⚡ Fun fact: Sometimes I like to spend more than one hour just looking at my room wall 😆
+- 💪 I’m currently working on being frontend-engineer 💻 
+- 😎 Fun fact: Sometimes I like to spend more than one hour just looking at my room wall 😆
 
 <br />
 
