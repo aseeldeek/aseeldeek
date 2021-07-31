@@ -10,7 +10,7 @@
 
 - 💪 I’m currently working on being frontend-engineer 💻 
 - 😎 Fun fact: Sometimes I like to spend more than one hour just looking at my room wall 😆
-
+- � i believe in this quotes: " The universe is full of magical things patiently waiting for our wits to grow sharper."
 <br />
 
 <h2 align="center">Quick Overview 📑</h2>
