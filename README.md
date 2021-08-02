@@ -4,7 +4,7 @@
 
 
 
-<h1>About Me ♦ ⚔ </h1>
+<h1>About Me ⚔ </h1>
 
 ### Hello it's Aseel Deek 🖐
 
