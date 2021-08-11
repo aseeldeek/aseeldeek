@@ -6,14 +6,14 @@
 
 <h1>About Me ⚔ </h1>
 
-### Hello it's Aseel Deek 🖐
+### Hello it's Aseel Deek🖐
 
 - 💪 I’m currently working on being full stack developer 💻 
 - 😆 Fun fact: Sometimes I like to spend more than one hour just looking at my room wall 😆
 - I believe in this quotes: " If you had started doing anything two weeks ago, by today you would have been two weeks better at it." 🦋
 <br />
 
-<h2 align="center">Quick Overview 💬</h2>
+<h2 align="center">Quick Overview💬</h2>
   
   <p align = "center">
  
@@ -32,7 +32,7 @@
 
 
 <br />
-<h2 align="center">Visitors 👀 </h2>
+<h2 align="center">Visitors👀 </h2>
 <div align="center" >
   <img src="https://profile-counter.glitch.me/aseeldeek/count.svg"></img>
 </div>
