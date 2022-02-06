@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aseel Deek</h1>
 <h3 align="center">A Student at Birzeit University from Palestine </h3>
-<img align="right" alt="Coding" src="https://c.tenor.com/pvFJwncehzIAAAAM/hello-there-private-from-penguins-of-madagascar.gif">
+<img align="right" alt="Coding" src="https://c.tenor.com/CR1Db0YzUwwAAAAM/joey-friends.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aseeldeek&label=Profile%20views&color=0e75b6&style=flat" alt="aseeldeek" /> </p>
 
