@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, Html5 & CSS**
 
-- 📫 How to reach me **aseel.aldeeek@gmail.com**
+- 📫 How to reach me **awdeek87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
