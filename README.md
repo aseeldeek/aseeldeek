@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aseeldeek&label=Profile%20views&color=0e75b6&style=flat" alt="aseeldeek" /> </p>
 
-- 🌱 I’m currently learning **Flutter Framework & Dart language**
-
-- 💬 Ask me about **Python, Html5 & CSS**
-
 - 📫 How to reach me **awdeek87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
